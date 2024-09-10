@@ -115,15 +115,15 @@ export const navItems = [
     {
       id: 2,
       title: "Github",
-      desc: "Kanishk-Chaudhary",
-      className: "md:col-span-2", // change to md:col-span-2
+      desc: "devKanix",
+      className: "md:col-span-2",
       thumbnail: "/github.png",
     },
     {
       id: 3,
       title: "Discord",
       desc: "kanishk_chaudhary",
-      className: "md:col-span-2", // change to md:col-span-2
+      className: "md:col-span-2",
       thumbnail: "/discord.png",
     },
     {
