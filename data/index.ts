@@ -76,7 +76,7 @@ export const navItems = [
       des: "A tool for compiling C++ code, enabling execution of programs and applications on various platforms.",
       img: "/p1.svg",
       iconLists: ["/c++.png", "/assembly.png", "/cmake.png", "/github.png", "/CLion.png"],
-      link: "https://github.com/Kanishk-Chaudhary/Kanishk_Compiler",
+      link: "https://github.com/devkanix/Kanishk_Compiler",
     },
     {
       id: 2,
@@ -84,7 +84,7 @@ export const navItems = [
       des: "Developing a serverless messaging infrastructure using AWS and Python for efficient and scalable applications.",
       img: "/pr2.png",
       iconLists: ["/aws.png", "/sqs.png", "/lambda.png", "/python.png", "/APIGateway.png"],
-      link: "https://github.com/Kanishk-Chaudhary/Serverless-Messaging-Backend-with-AWS",
+      link: "https://github.com/devkanix/Serverless-Messaging-Backend-with-AWS",
     },
     {
       id: 3,
@@ -100,7 +100,7 @@ export const navItems = [
       des: "Building my portfolio website with Next.js for a modern and dynamic web presence showcasing my skills and projects.",
       img: "/pr4.png",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/re.svg", "/web3.png"],
-      link: "https://github.com/Kanishk-Chaudhary/Kanishk-Portfolio",
+      link: "https://github.com/devkanix/Kanishk-Portfolio",
     },
   ];
   
